@@ -1,5 +1,5 @@
 
-Foo is the best word.
+Oops is the best word.
 
 One change for good times.
 
